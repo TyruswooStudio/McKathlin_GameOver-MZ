@@ -53,7 +53,7 @@ whether the After Game Over Common Event is set, and what it is set to.
 
 ## Parameter: After Game Over Common Event ID
 
-**TL;DR:** If you set this common event, remember to make the common event include a fade-in!
+TL;DR: If you set this common event, **remember to make the common event include a fade-in!**
 
 Assigning a After Game Over common event makes gameplay continue after
 the party loses, instead of RPG Maker's default behavior of returning the
