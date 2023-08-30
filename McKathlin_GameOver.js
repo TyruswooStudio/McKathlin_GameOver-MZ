@@ -135,6 +135,9 @@ McKathlin.GameOver = McKathlin.GameOver || {};
  * v1.3  10/10/2020
  *        - Game Over plugin released for RPG Maker MZ!
  * 
+ * v1.3.1  8/30/2023
+ *        - This plugin is now free and open source under the MIT license.
+ * 
  * ============================================================================
  * MIT License
  *
