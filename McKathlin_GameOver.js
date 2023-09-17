@@ -36,7 +36,7 @@ McKathlin.GameOver = McKathlin.GameOver || {};
 
 /*:
  * @target MZ
- * @plugindesc v1.3.1 Change what happens when the party dies or Game Over is called.
+ * @plugindesc MZ v1.3.1 Change what happens when the party dies or Game Over is called.
  * @author McKathlin
  * @url https://www.tyruswoo.com
  * 
