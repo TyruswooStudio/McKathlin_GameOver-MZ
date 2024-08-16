@@ -93,7 +93,7 @@ Title Screen.
 This plugin command may be useful in a Party Death Common Event, in an 
 After Game Over Common Event, or in any event of the developer's choice.
 
-For more help using the Game Over plugin, see see [Tyruswoo.com](https://www.tyruswoo.com).
+### Visit [**Tyruswoo.com**](https://www.tyruswoo.com) to [ask for help](https://www.tyruswoo.com/contact-us/), [donate](https://www.tyruswoo.com/donate/), or browse more of our [plugins](https://www.tyruswoo.com/downloads/rpg-maker-plugin-downloads/).
 
 ## Version History
 
