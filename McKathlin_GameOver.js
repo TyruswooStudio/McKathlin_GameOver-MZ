@@ -128,7 +128,7 @@ McKathlin.GameOver = McKathlin.GameOver || {};
  * After Game Over Common Event, or in any event of the developer's choice.
  * 
  * ============================================================================
- * For more help using the Game Over plugin, see Tyruswoo.com.
+ * Visit Tyruswoo.com to ask for help, donate, or browse more of our plugins.
  * ============================================================================
  * Version History:
  *
