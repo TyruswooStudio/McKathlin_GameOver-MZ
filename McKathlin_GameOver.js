@@ -57,6 +57,9 @@ McKathlin.GameOver = McKathlin.GameOver || {};
  *   So if you want to make something happen after a slow fadeout
  *   and return to the map, I recommend using the After Game Over Common Event
  *   instead.
+ * * Using the Abort Battle command in your Party Death Common Event will
+ *   interfere with scene control, so do not use the Abort Battle command
+ *   in a Party Death Common Event that also uses the Game Over command.
  * * If you would like the Game Over screen (or a fadeout and cut to the map
  *   if "Show Game Over Scene" is false) to show at the end of your common
  *   event, remember to use the Game Over command in your common event.
